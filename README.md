@@ -8,7 +8,6 @@
   <a href="https://github.com/MaiconBruno">
   <img height="178em" src="https://github-readme-stats.vercel.app/api?username=MaiconBruno&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiconBruno&layout=compact&langs_count=7&theme=codeSTACKr"/>
-   <img align="right" alt="Rafa-pic" height="170" style="border-radius:50px;" src="https://maicon.dev.br/static/media/i.e95d1315.jpeg">
 </div>
 <div style="display: inline_block;"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
