@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como FullStak ...
 - 🌱 Estudo JavaScript/React ...
-- 😄 Pronouns: ele/dele
+- 😄 pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/MaiconBruno">
