@@ -1,6 +1,7 @@
 ### Ola! Me chamo Maicon Rodigues, tudo bem? 👋
 
-- 🔭 Hoje trabalho como FullStak na DGAZ ...
+- 🔭 Hoje trabalho como FullStak na DGAZ Marketing
+- Segue algumas informações sobre min:
 
 <a href="https://github.com/MaiconBruno">
 <img height="178em" src="https://github-readme-stats.vercel.app/api?username=MaiconBruno&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
